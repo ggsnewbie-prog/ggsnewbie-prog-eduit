@@ -1,1 +1,1 @@
-# ggsnewbie-prog-eduit
+# ggsnewbie-prog-eduit.github.io
